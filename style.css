@@ -1,0 +1,23 @@
+@media (max-width: 500px){
+
+}
+
+h1{
+    text-align: center;
+    font:36px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-color: lightblue;
+}
+h2{
+    font:15px Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.button{
+    background-color: white;
+    border:none;
+    display: inline-block;
+
+}
